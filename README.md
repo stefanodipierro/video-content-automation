@@ -6,7 +6,7 @@ Sito statico in HTML, CSS e JavaScript, senza build e senza servizi di raccolta 
 
 ## GitHub Pages
 
-Pubblicazione dal branch `main`, cartella `/`.
+Pubblicazione dal branch `master`, cartella `/`.
 
 URL: https://stefanodipierro.github.io/video-content-automation/
 
